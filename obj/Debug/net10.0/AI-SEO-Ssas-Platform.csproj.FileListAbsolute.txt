@@ -41,3 +41,4 @@ D:\MyFolder\Develop\AI-SEO-Ssas-Platform\obj\Debug\net10.0\refint\AI-SEO-Ssas-Pl
 D:\MyFolder\Develop\AI-SEO-Ssas-Platform\obj\Debug\net10.0\AI-SEO-Ssas-Platform.pdb
 D:\MyFolder\Develop\AI-SEO-Ssas-Platform\obj\Debug\net10.0\AI-SEO-Ssas-Platform.genruntimeconfig.cache
 D:\MyFolder\Develop\AI-SEO-Ssas-Platform\obj\Debug\net10.0\ref\AI-SEO-Ssas-Platform.dll
+D:\MyFolder\Develop\AI-SEO-Ssas-Platform\obj\Debug\net10.0\AI-SEO-Ssas-Platform.sourcelink.json

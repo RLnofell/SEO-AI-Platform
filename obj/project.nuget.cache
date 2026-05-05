@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7WA5vtu+wj8=",
+  "dgSpecHash": "eJ7yWuU/nJg=",
   "success": true,
   "projectFilePath": "D:\\MyFolder\\Develop\\AI-SEO-Ssas-Platform\\AI-SEO-Ssas-Platform.csproj",
   "expectedPackageFiles": [
@@ -13,21 +13,7 @@
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.ai\\10.5.0\\microsoft.extensions.ai.10.5.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.5.0\\microsoft.extensions.ai.abstractions.10.5.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.ai.openai\\10.5.0\\microsoft.extensions.ai.openai.10.5.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.6\\microsoft.extensions.caching.abstractions.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.2\\microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.6\\microsoft.extensions.dependencyinjection.abstractions.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.3\\microsoft.extensions.diagnostics.abstractions.10.0.3.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.3\\microsoft.extensions.fileproviders.abstractions.10.0.3.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.3\\microsoft.extensions.hosting.abstractions.10.0.3.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.6\\microsoft.extensions.logging.abstractions.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.options\\10.0.3\\microsoft.extensions.options.10.0.3.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.6\\microsoft.extensions.primitives.10.0.6.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\10.1.0\\microsoft.extensions.vectordata.abstractions.10.1.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.net.compilers.toolset\\4.14.0\\microsoft.net.compilers.toolset.4.14.0.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.semantickernel\\1.75.0\\microsoft.semantickernel.1.75.0.nupkg.sha512",
@@ -46,20 +32,21 @@
     "C:\\Users\\thanh\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\system.clientmodel\\1.10.0\\system.clientmodel.1.10.0.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.6\\system.diagnostics.diagnosticsource.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.io.pipelines\\10.0.6\\system.io.pipelines.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.linq.asyncenumerable\\10.0.4\\system.linq.asyncenumerable.10.0.4.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.net.serversentevents\\10.0.2\\system.net.serversentevents.10.0.2.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.numerics.tensors\\10.0.6\\system.numerics.tensors.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.text.encodings.web\\10.0.6\\system.text.encodings.web.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.text.json\\10.0.6\\system.text.json.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\system.threading.channels\\10.0.6\\system.threading.channels.10.0.6.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
-    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512"
+    "C:\\Users\\thanh\\.nuget\\packages\\system.numerics.tensors\\10.0.6\\system.numerics.tensors.10.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Configuration.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "D:\\MyFolder\\Develop\\AI-SEO-Ssas-Platform\\AI-SEO-Ssas-Platform.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\MyFolder\\Develop\\AI-SEO-Ssas-Platform\\AI-SEO-Ssas-Platform.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

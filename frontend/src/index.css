@@ -197,14 +197,57 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
-.stat-box {
+.stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.stat-card {
   display: flex;
-  flex-direction: column;
+  align-items: center;
   gap: 0.5rem;
   padding: 1rem;
-  background: rgba(16, 185, 129, 0.1);
-  border-left: 4px solid var(--success);
-  border-radius: 0 8px 8px 0;
+  background: rgba(6, 182, 212, 0.05);
+  border: 1px solid rgba(6, 182, 212, 0.2);
+  border-radius: 12px;
+  font-size: 0.9rem;
+  color: var(--accent-cyan);
+}
+
+.stat-card.success {
+  background: rgba(16, 185, 129, 0.05);
+  border-color: rgba(16, 185, 129, 0.2);
+  color: var(--success);
+}
+
+.loading-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 1.5rem;
+  color: var(--accent-cyan);
+  opacity: 0.8;
+}
+
+.badge {
+  font-size: 0.8rem;
+  background: var(--accent-gradient);
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+  -webkit-text-fill-color: white;
+}
+
+.log-entry.error {
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.1);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
 }
 
 /* Animations */
